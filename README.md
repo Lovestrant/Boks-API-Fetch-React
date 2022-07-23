@@ -1,4 +1,4 @@
-# Boks-API-Fetch-React
+# Books-API-Fetch-React
  
  This app will enable you search through all books in any category or topic you want. All you have to do is key in a topic and hit enter. All the records from your search will be displayed in a beautiful table.
 
